@@ -1,7 +1,17 @@
 package cuentas;
+
+/**
+ * Clase principal
+ * @author Fatima.Atienza
+*/
+
 public class Main {
 
-    public static void main(String[] args) {
+   /** 
+    * Este es el metodo principal 
+    * @param args
+    */
+	public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
 
